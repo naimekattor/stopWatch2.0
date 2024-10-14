@@ -1,0 +1,8 @@
+.stop_watch span{
+font-size: 70px;
+}
+button{
+  padding: 0.5rem !important;
+  border-radius: 10px !important;
+  margin-right: 5px !important;
+}
